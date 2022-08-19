@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f31580105f311000b12e3572f2b4778a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2011-10-14 15:02:11</sys_created_on>
+        <sys_id>f31580105f311000b12e3572f2b4778a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>service_offering_commitment.portfolio_admin</sys_name>
+        <sys_package display_value="Service Portfolio Management Foundation" source="com.snc.service_portfolio">9edf31c8756401100acb0f6766fcbf32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="service_offering_commitment">3b1580105f311000b12e3572f2b47788</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f31580105f311000b12e3572f2b4778a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2011-10-14 15:02:11</sys_updated_on>
+        <sys_user_role display_value="portfolio_admin" name="portfolio_admin">abe6dd54c0a8016b004e4fb2c57af230</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-19 15:51:02</sys_created_on>
+        <sys_id>895b779347911110bd01da97436d43d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>service_offering_commitment.portfolio_admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_895b779347911110bd01da97436d43d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-19 15:51:02</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

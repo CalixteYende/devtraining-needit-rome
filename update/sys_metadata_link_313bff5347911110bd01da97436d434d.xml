@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>8c8d77745303101034d1ddeeff7b12d0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 12:44:47</sys_created_on>
+        <sys_id>8c8d77745303101034d1ddeeff7b12d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.sn_sttrm.sttrm_admin</sys_name>
+        <sys_package display_value="State Transition Models" source="com.snc.itsm.state_transition_model">c8c00ac475a401100acb0f6766fcbf3d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="sttrm_condition_type">337d77745303101034d1ddeeff7b12da</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8c8d77745303101034d1ddeeff7b12d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 12:44:47</sys_updated_on>
+        <sys_user_role display_value="sttrm_admin" name="sttrm_admin">908bbff05303101034d1ddeeff7b12e9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-19 15:50:32</sys_created_on>
+        <sys_id>313bff5347911110bd01da97436d434d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.sn_sttrm.sttrm_admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_313bff5347911110bd01da97436d434d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-19 15:50:32</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>
